@@ -1,0 +1,98 @@
+{
+    "flower_1": {
+        "name": "flower_1",
+
+        "desc": "2021花朝节·香风",
+        "status": 1
+    },
+    "flower_2": {
+        "name": "flower_2",
+
+        "desc": "2021花朝节·晓寒",
+        "status": 1
+    },
+    "flower_3": {
+        "name": "flower_3",
+
+        "desc": "2021花朝节·千红",
+        "status": 1
+    },
+    "flower_4": {
+        "name": "flower_4",
+
+        "desc": "2021花朝节·国色",
+        "status": 1
+    },
+    "flower_5": {
+        "name": "flower_5",
+
+        "desc": "2021花朝节·乱花",
+        "status": 1
+    },
+    "flower_6": {
+        "name": "flower_6",
+
+        "desc": "2021花朝节·雪玫",
+        "status": 1
+    },
+    "leaf_1": {
+        "name": "leaf_1",
+
+        "desc": "2021花朝节·碧丛",
+        "status": 1
+    },
+    "bdfy": {
+        "name": "bdfy",
+
+        "desc": "白帝风云",
+        "status": 1
+    },
+    "gold_1": {
+        "name": "gold_1",
+
+        "desc": "2022花朝节·金枝",
+        "status": 1
+    },
+    "gold_2": {
+        "name": "gold_2",
+
+        "desc": "2022花朝节·玉孽",
+        "status": 1
+    },
+    "flower_7": {
+        "name": "flower_7",
+
+        "desc": "2022花朝节·花馨",
+        "status": 1
+    },
+    "flower_8": {
+        "name": "flower_8",
+
+        "desc": "2022花朝节·春煦",
+        "status": 1
+    },
+    "flower_9": {
+        "name": "flower_9",
+
+        "desc": "2022花朝节·青蕊",
+        "status": 1
+    },
+    "sakura_1": {
+        "name": "sakura_1",
+
+        "desc": "桜·染",
+        "status": 1
+    },
+    "sakura_2": {
+        "name": "sakura_2",
+
+        "desc": "桜·落",
+        "status": 1
+    },
+    "sakura_3": {
+        "name": "sakura_3",
+
+        "desc": "桜·归",
+        "status": 1
+    }
+}
