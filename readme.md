@@ -27,3 +27,6 @@
 #### style可取值
 + square方形
 + circle圆形
+
+##头像框设计地址
+https://www.figma.com/file/1WPZqvmlI5TN7HnVxmh59E/Untitled?node-id=0%3A1
