@@ -77,10 +77,46 @@
         "desc": "2022花朝节·青蕊",
         "status": 1
     },
-    "sakura_1": {
-        "name": "sakura_1",
+        "flower_9": {
+        "name": "flower_9",
 
-        "desc": "桜·染",
+        "desc": "2022花朝节·青蕊",
+        "status": 1
+    },
+    "pro_1": {
+        "name": "pro_1",
+
+        "desc": "魔盒PRO",
+        "status": 1
+    },
+    "7xi_1": {
+        "name": "7xi_1",
+
+        "desc": "2022七夕·寻鹊",
+        "status": 1
+    },
+    "bird_1": {
+        "name": "bird_1",
+
+        "desc": "门派·寻鹤",
+        "status": 1
+    },
+    "moon_1": {
+        "name": "moon_1",
+
+        "desc": "2022中秋·月兔",
+        "status": 1
+    },
+    "moon_2": {
+        "name": "moon_2",
+
+        "desc": "2022中秋·浮灯",
+        "status": 1
+    },
+    "moon_3": {
+        "name": "moon_3",
+
+        "desc": "2022中秋·卧月",
         "status": 1
     },
     "sakura_2": {
