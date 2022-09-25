@@ -47,6 +47,12 @@
         "desc": "白帝风云",
         "status": 1
     },
+    "hddl": {
+        "name": "hddl",
+
+        "desc": "横刀断浪",
+        "status": 1
+    },
     "gold_1": {
         "name": "gold_1",
 
