@@ -53,42 +53,6 @@
         "desc": "桜·归（2022河阳之战）",
         "status": 0
     },
-    "gold_1": {
-        "name": "gold_1",
-
-        "desc": "2022花朝节·金枝",
-        "status": 0
-    },
-    "gold_2": {
-        "name": "gold_2",
-
-        "desc": "2022花朝节·玉孽",
-        "status": 0
-    },
-    "flower_7": {
-        "name": "flower_7",
-
-        "desc": "2022花朝节·花馨",
-        "status": 0
-    },
-    "flower_8": {
-        "name": "flower_8",
-
-        "desc": "2022花朝节·春煦",
-        "status": 0
-    },
-    "flower_9": {
-        "name": "flower_9",
-
-        "desc": "2022花朝节·青蕊",
-        "status": 0
-    },
-        "flower_9": {
-        "name": "flower_9",
-
-        "desc": "2022花朝节·青蕊",
-        "status": 0
-    },
     "flower_1": {
         "name": "flower_1",
 
@@ -101,22 +65,10 @@
         "desc": "2021花朝节·晓寒",
         "status": 0
     },
-    "flower_3": {
-        "name": "flower_3",
-
-        "desc": "2021花朝节·千红",
-        "status": 0
-    },
     "flower_4": {
         "name": "flower_4",
 
         "desc": "2021花朝节·国色",
-        "status": 0
-    },
-    "flower_5": {
-        "name": "flower_5",
-
-        "desc": "2021花朝节·乱花",
         "status": 0
     },
     "flower_6": {
