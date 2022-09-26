@@ -5,12 +5,6 @@
         "desc": "横刀断浪",
         "status": 1
     },
-    "pro_1": {
-        "name": "pro_1",
-
-        "desc": "魔盒PRO",
-        "status": 1
-    },
     "7xi_1": {
         "name": "7xi_1",
 
@@ -45,6 +39,12 @@
         "name": "mp_1",
 
         "desc": "门派·流光",
+        "status": 1
+    },
+    "pro_1": {
+        "name": "pro_1",
+
+        "desc": "霓虹·PRO",
         "status": 1
     },
     "niji_1": {
