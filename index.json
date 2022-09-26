@@ -41,6 +41,43 @@
         "desc": "2022中秋·卧月",
         "status": 1
     },
+    "mp_1": {
+        "name": "mp_1",
+
+        "desc": "门派·流光",
+        "status": 1
+    },
+    "niji_1": {
+        "name": "niji_1",
+
+        "desc": "霓虹·载入",
+        "status": 1
+    },
+    "niji_2": {
+        "name": "niji_2",
+
+        "desc": "霓虹·糖果",
+        "status": 1
+    },
+    "niji_3": {
+        "name": "niji_3",
+
+        "desc": "霓虹·明星",
+        "status": 1
+    },
+    "peace_1": {
+        "name": "peace_1",
+
+        "desc": "和平·宁静",
+        "status": 1
+    },
+    
+        "flower_10": {
+        "name": "flower_10",
+
+        "desc": "2023花朝节·鸣鎏",
+        "status": 0
+    },
     "sakura_2": {
         "name": "sakura_2",
 
