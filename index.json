@@ -1,4 +1,94 @@
 {
+    "hddl": {
+        "name": "hddl",
+
+        "desc": "横刀断浪",
+        "status": 1
+    },
+    "pro_1": {
+        "name": "pro_1",
+
+        "desc": "魔盒PRO",
+        "status": 1
+    },
+    "7xi_1": {
+        "name": "7xi_1",
+
+        "desc": "2022七夕·寻鹊",
+        "status": 1
+    },
+    "bird_1": {
+        "name": "bird_1",
+
+        "desc": "门派·寻鹤",
+        "status": 1
+    },
+    "moon_1": {
+        "name": "moon_1",
+
+        "desc": "2022中秋·月兔",
+        "status": 1
+    },
+    "moon_2": {
+        "name": "moon_2",
+
+        "desc": "2022中秋·浮灯",
+        "status": 1
+    },
+    "moon_3": {
+        "name": "moon_3",
+
+        "desc": "2022中秋·卧月",
+        "status": 1
+    },
+    "sakura_2": {
+        "name": "sakura_2",
+
+        "desc": "桜·落（2022河阳之战）",
+        "status": 0
+    },
+    "sakura_3": {
+        "name": "sakura_3",
+
+        "desc": "桜·归（2022河阳之战）",
+        "status": 0
+    },
+    "gold_1": {
+        "name": "gold_1",
+
+        "desc": "2022花朝节·金枝",
+        "status": 0
+    },
+    "gold_2": {
+        "name": "gold_2",
+
+        "desc": "2022花朝节·玉孽",
+        "status": 0
+    },
+    "flower_7": {
+        "name": "flower_7",
+
+        "desc": "2022花朝节·花馨",
+        "status": 0
+    },
+    "flower_8": {
+        "name": "flower_8",
+
+        "desc": "2022花朝节·春煦",
+        "status": 0
+    },
+    "flower_9": {
+        "name": "flower_9",
+
+        "desc": "2022花朝节·青蕊",
+        "status": 0
+    },
+        "flower_9": {
+        "name": "flower_9",
+
+        "desc": "2022花朝节·青蕊",
+        "status": 0
+    },
     "flower_1": {
         "name": "flower_1",
 
@@ -45,96 +135,6 @@
         "name": "bdfy",
 
         "desc": "白帝风云",
-        "status": 0
-    },
-    "hddl": {
-        "name": "hddl",
-
-        "desc": "横刀断浪",
-        "status": 1
-    },
-    "gold_1": {
-        "name": "gold_1",
-
-        "desc": "2022花朝节·金枝",
-        "status": 0
-    },
-    "gold_2": {
-        "name": "gold_2",
-
-        "desc": "2022花朝节·玉孽",
-        "status": 0
-    },
-    "flower_7": {
-        "name": "flower_7",
-
-        "desc": "2022花朝节·花馨",
-        "status": 0
-    },
-    "flower_8": {
-        "name": "flower_8",
-
-        "desc": "2022花朝节·春煦",
-        "status": 0
-    },
-    "flower_9": {
-        "name": "flower_9",
-
-        "desc": "2022花朝节·青蕊",
-        "status": 0
-    },
-        "flower_9": {
-        "name": "flower_9",
-
-        "desc": "2022花朝节·青蕊",
-        "status": 0
-    },
-    "pro_1": {
-        "name": "pro_1",
-
-        "desc": "魔盒PRO",
-        "status": 1
-    },
-    "7xi_1": {
-        "name": "7xi_1",
-
-        "desc": "2022七夕·寻鹊",
-        "status": 1
-    },
-    "bird_1": {
-        "name": "bird_1",
-
-        "desc": "门派·寻鹤",
-        "status": 1
-    },
-    "moon_1": {
-        "name": "moon_1",
-
-        "desc": "2022中秋·月兔",
-        "status": 1
-    },
-    "moon_2": {
-        "name": "moon_2",
-
-        "desc": "2022中秋·浮灯",
-        "status": 1
-    },
-    "moon_3": {
-        "name": "moon_3",
-
-        "desc": "2022中秋·卧月",
-        "status": 1
-    },
-    "sakura_2": {
-        "name": "sakura_2",
-
-        "desc": "桜·落",
-        "status": 0
-    },
-    "sakura_3": {
-        "name": "sakura_3",
-
-        "desc": "桜·归",
         "status": 0
     }
 }
