@@ -65,11 +65,11 @@
         "desc": "霓虹·明星",
         "status": 1
     },
-    "peace_1": {
-        "name": "peace_1",
+    "sakura_1": {
+        "name": "sakura_1",
 
-        "desc": "和平·宁静",
-        "status": 1
+        "desc": "桜·漫（2022河阳之战）",
+        "status": 0
     },
     "sakura_2": {
         "name": "sakura_2",
