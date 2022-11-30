@@ -11,34 +11,16 @@
         "desc": "2022圣诞·寻鹿",
         "status": 1
     },
-    "7xi_1": {
-        "name": "7xi_1",
+        "Xmas_2": {
+        "name": "Xmas_2",
 
-        "desc": "2022七夕·寻鹊",
+        "desc": "2022圣诞·贺礼",
         "status": 1
     },
-    "bird_1": {
+        "bird_1": {
         "name": "bird_1",
 
         "desc": "门派·寻鹤",
-        "status": 1
-    },
-    "moon_1": {
-        "name": "moon_1",
-
-        "desc": "2022中秋·月兔",
-        "status": 1
-    },
-    "moon_2": {
-        "name": "moon_2",
-
-        "desc": "2022中秋·浮灯",
-        "status": 1
-    },
-    "moon_3": {
-        "name": "moon_3",
-
-        "desc": "2022中秋·卧月",
         "status": 1
     },
     "mp_1": {
@@ -70,6 +52,30 @@
 
         "desc": "霓虹·明星",
         "status": 1
+    },
+        "7xi_1": {
+        "name": "7xi_1",
+
+        "desc": "2022七夕·寻鹊",
+        "status": 0
+    },
+        "moon_1": {
+        "name": "moon_1",
+
+        "desc": "2022中秋·月兔",
+        "status": 0
+    },
+    "moon_2": {
+        "name": "moon_2",
+
+        "desc": "2022中秋·浮灯",
+        "status": 0
+    },
+    "moon_3": {
+        "name": "moon_3",
+
+        "desc": "2022中秋·卧月",
+        "status": 0
     },
     "sakura_1": {
         "name": "sakura_1",
