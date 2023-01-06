@@ -5,12 +5,6 @@
         "desc": "横刀断浪",
         "status": 1
     },
-        "CAT": {
-        "name": "CAT",
-
-        "desc": "猫猫日",
-        "status": 1
-    },
         "Xmas_1": {
         "name": "Xmas_1",
 
@@ -129,6 +123,12 @@
         "name": "leaf_1",
 
         "desc": "2021花朝节·碧丛",
+        "status": 0
+    },
+        "CAT": {
+        "name": "CAT",
+
+        "desc": "猫猫日",
         "status": 0
     },
     "bdfy": {
