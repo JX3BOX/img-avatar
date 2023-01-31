@@ -31,3 +31,15 @@
 
 ##头像框设计地址
 https://www.figma.com/file/1WPZqvmlI5TN7HnVxmh59E/Untitled?node-id=0%3A1
+
+
+| JSON字段 | 说明 | 补充说明 |
+| ---------- | -------- | -------- | 
+| name | 头像框路径       |        |
+| desc | 名字（对外显示名）       |        | 
+| decoration | 是否为主题装扮收集       | 1为是0为否       |
+| postscript  | 补充说明       |        |
+| status  | 是否激活（已废弃）      | 1为是0为否      |
+
+----------------------
+
