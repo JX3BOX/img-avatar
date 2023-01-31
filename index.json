@@ -10,7 +10,7 @@
 
         "desc": "圣诞·寻鹿",
         "decoration": 0,
-        "Postscript": "2022年圣诞头像框",
+        "postscript": "2022年圣诞头像框",
         "status": 1
     },
         "Xmas_2": {
@@ -24,7 +24,7 @@
 
         "desc": "猫猫日·暹罗",
         "decoration": 1,
-        "Postscript": "猫猫日主题装扮全收集奖励",
+        "postscript": "猫猫日主题装扮全收集奖励",
         "status": 1
     },
         "bird_1": {
