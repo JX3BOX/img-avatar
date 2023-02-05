@@ -1,5 +1,21 @@
 {
-    "hddl": {
+    "1_CAT": {
+        "name": "1_CAT",
+
+        "desc": "猫猫日·暹罗",
+        "decoration": 1,
+        "postscript": "主题装扮【猫猫日】全收集奖励",
+        "status": 1
+    },    
+    "5_YYNH&LYGG": {
+        "name": "5_YYNH&LYGG",
+
+        "desc": "银羽南徊",
+        "decoration": 1,
+        "postscript": "主题装扮【银羽南徊&流云孤光】全收集奖励",
+        "status": 1
+    },    
+       "hddl": {
         "name": "hddl",
 
         "desc": "横刀断浪",
@@ -7,6 +23,7 @@
         "postscript": "资料片·横刀断浪",
         "status": 1
     },
+
        "bdfy": {
         "name": "bdfy",
 
