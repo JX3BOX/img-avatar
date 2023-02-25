@@ -32,6 +32,14 @@
         "postscript": "资料片·白帝风云",
         "status": 1
     },
+        "flower_2301": {
+        "name": "flower_2301",
+
+        "desc": "涎欲",
+        "decoration": 0,
+        "postscript": "2023花朝节",
+        "status": 1
+    },
         "flower_9": {
         "name": "flower_9",
 
