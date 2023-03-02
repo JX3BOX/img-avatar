@@ -1,11 +1,11 @@
 {
-    "Flower_xiuqiutu": {
-        "name": "Flower_xiuqiutu",
+    "flower_xiuqiutu": {
+        "name": "flower_xiuqiutu",
 
         "desc": "2023年花朝节限定·绣球兔",
         "decoration": 0,
         "postscript": "2023年花朝节限定",
-        "status": 0
+        "status": 1
     }, 
     "1_CAT": {
         "name": "1_CAT",
