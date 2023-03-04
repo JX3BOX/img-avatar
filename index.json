@@ -1,32 +1,4 @@
 {
-    "2023yaoxiu_1": {
-        "name": "2023yaoxiu_1",
-        "desc": "妖秀·蒂花之秀",
-        "decoration": 0,
-        "postscript": "2023妖秀节活动",
-        "status": 1
-    },
-    "2023yaoxiu_2": {
-        "name": "2023yaoxiu_2",
-        "desc": "妖秀·秀的一比",
-        "decoration": 0,
-        "postscript": "2023妖秀节活动",
-        "status": 1
-    },
-    "2023yaoxiu_3": {
-        "name": "2023yaoxiu_3",
-        "desc": "妖秀·秀儿是你吗",
-        "decoration": 0,
-        "postscript": "2023妖秀节活动",
-        "status": 1
-    },
-    "2023yaoxiu_4": {
-        "name": "2023yaoxiu_4",
-        "desc": "妖秀·奶秀一刀",
-        "decoration": 0,
-        "postscript": "2023妖秀节活动",
-        "status": 1
-    },
     "1_CAT": {
         "name": "1_CAT",
         "desc": "猫猫日·暹罗",
@@ -55,6 +27,34 @@
         "postscript": "资料片·白帝风云",
         "status": 1
     },
+    "2023yaoxiu_1": {
+        "name": "2023yaoxiu_1",
+        "desc": "妖秀·蒂花之秀",
+        "decoration": 0,
+        "postscript": "2023妖秀节活动",
+        "status": 1
+    },
+    "2023yaoxiu_2": {
+        "name": "2023yaoxiu_2",
+        "desc": "妖秀·秀的一比",
+        "decoration": 0,
+        "postscript": "2023妖秀节活动",
+        "status": 1
+    },
+    "2023yaoxiu_3": {
+        "name": "2023yaoxiu_3",
+        "desc": "妖秀·秀儿是你吗",
+        "decoration": 0,
+        "postscript": "2023妖秀节活动",
+        "status": 1
+    },
+    "2023yaoxiu_4": {
+        "name": "2023yaoxiu_4",
+        "desc": "妖秀·奶秀一刀",
+        "decoration": 0,
+        "postscript": "2023妖秀节活动",
+        "status": 1
+    },
     "flower_2304": {
         "name": "flower_2304",
         "desc": "绣球兔",
@@ -71,6 +71,7 @@
     },
     "flower_2302": {
         "name": "flower_2302",
+        "desc": "素心",
         "decoration": 0,
         "postscript": "2023花朝节",
         "status": 1
