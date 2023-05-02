@@ -13,20 +13,6 @@
         "postscript": "主题装扮【银羽南徊&流云孤光】全收集奖励",
         "status": 1
     },
-    "hddl": {
-        "name": "hddl",
-        "desc": "横刀断浪",
-        "decoration": 0,
-        "postscript": "资料片·横刀断浪",
-        "status": 1
-    },
-    "bdfy": {
-        "name": "bdfy",
-        "desc": "白帝风云",
-        "decoration": 0,
-        "postscript": "资料片·白帝风云",
-        "status": 1
-    },
         "rank_7": {
         "name": "rank_7",
         "desc": "第七届·秘境百强榜",
@@ -53,6 +39,20 @@
         "desc": "第七届·秘境百强榜·前10强",
         "decoration": 0,
         "postscript": "参与第七届秘境百强榜进入前10名",
+        "status": 1
+    },
+    "hddl": {
+        "name": "hddl",
+        "desc": "横刀断浪",
+        "decoration": 0,
+        "postscript": "资料片·横刀断浪",
+        "status": 1
+    },
+    "bdfy": {
+        "name": "bdfy",
+        "desc": "白帝风云",
+        "decoration": 0,
+        "postscript": "资料片·白帝风云",
         "status": 1
     },
     "2023yaoxiu_1": {
