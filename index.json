@@ -27,6 +27,34 @@
         "postscript": "资料片·白帝风云",
         "status": 1
     },
+        "rank_7": {
+        "name": "rank_7",
+        "desc": "第七届·秘境百强榜",
+        "decoration": 1,
+        "postscript": "主题装扮【第七届·秘境百强榜】全收集奖励",
+        "status": 1
+    },
+        "rank_7_100": {
+        "name": "rank_7_100",
+        "desc": "第七届·秘境百强榜·前100强",
+        "decoration": 0,
+        "postscript": "参与第七届秘境百强榜进入前100名",
+        "status": 1
+    },
+        "rank_7_50": {
+        "name": "rank_7_50",
+        "desc": "第七届·秘境百强榜·前50强",
+        "decoration": 0,
+        "postscript": "参与第七届秘境百强榜进入前50名",
+        "status": 1
+    },
+        "rank_7_10": {
+        "name": "rank_7_10",
+        "desc": "第七届·秘境百强榜·前10强",
+        "decoration": 0,
+        "postscript": "参与第七届秘境百强榜进入前10名",
+        "status": 1
+    },
     "2023yaoxiu_1": {
         "name": "2023yaoxiu_1",
         "desc": "妖秀·蒂花之秀",
