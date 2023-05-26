@@ -6,6 +6,7 @@
         "postscript": "主题装扮【猫猫日】全收集奖励",
         "status": 1
     },
+    
     "5_YYNH&LYGG": {
         "name": "5_YYNH&LYGG",
         "desc": "银羽南徊",
@@ -39,6 +40,13 @@
         "desc": "第七届·秘境百强榜·前10强",
         "decoration": 0,
         "postscript": "参与第七届秘境百强榜进入前10名",
+        "status": 1
+    },
+        "dianxinghe": {
+        "name": "dianxinghe",
+        "desc": "点星河",
+        "decoration": 1,
+        "postscript": "主题装扮【点星河】全收集奖励",
         "status": 1
     },
     "hddl": {
