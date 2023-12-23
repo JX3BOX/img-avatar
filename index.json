@@ -314,5 +314,33 @@
         "decoration": 0,
         "postscript": "2022圣诞节",
         "status": 1
+    },
+    "Xmas_box": {
+        "name": "Xmas_box",
+        "desc": "礼物盒",
+        "decoration": 0,
+        "postscript": "2023圣诞节",
+        "status": 1
+    },
+    "Xmas_elk": {
+        "name": "Xmas_elk",
+        "desc": "麋鹿铃",
+        "decoration": 0,
+        "postscript": "2023圣诞节",
+        "status": 1
+    },
+    "Xmas_rainbowknot": {
+        "name": "Xmas_rainbowknot",
+        "desc": "彩色结",
+        "decoration": 0,
+        "postscript": "2023圣诞节",
+        "status": 1
+    },
+    "Xmas_xmasgold": {
+        "name": "Xmas_xmasgold",
+        "desc": "圣诞金",
+        "decoration": 0,
+        "postscript": "2023圣诞节",
+        "status": 1
     }
 }
