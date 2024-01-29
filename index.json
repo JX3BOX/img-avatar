@@ -342,5 +342,33 @@
         "decoration": 0,
         "postscript": "2023圣诞节",
         "status": 1
+    },
+    "long_1": {
+        "name": "long_1",
+        "desc": "龙转乾坤",
+        "decoration": 0,
+        "postscript": "2024龙年新年限定",
+        "status": 1
+    },
+    "long_2": {
+        "name": "long_2",
+        "desc": "龙行天下",
+        "decoration": 0,
+        "postscript": "2024龙年新年限定",
+        "status": 1
+    },
+    "long_3": {
+        "name": "long_3",
+        "desc": "龙腾四海",
+        "decoration": 0,
+        "postscript": "2024龙年新年限定",
+        "status": 1
+    },
+    "long_4": {
+        "name": "long_4",
+        "desc": "龙凤呈祥",
+        "decoration": 0,
+        "postscript": "2024龙年新年限定",
+        "status": 1
     }
 }
