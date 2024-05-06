@@ -370,5 +370,12 @@
         "decoration": 0,
         "postscript": "2024龙年新年限定",
         "status": 1
+    },
+    "rank_8": {
+        "name": "rank_8",
+        "desc": "第八届·秘境百强榜",
+        "decoration": 1,
+        "postscript": "第八届·秘境百强榜",
+        "status": 1
     }
 }
