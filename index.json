@@ -370,5 +370,12 @@
         "decoration": 0,
         "postscript": "2024龙年新年限定",
         "status": 1
+    },
+    "2024zhongqiu": {
+        "name": "2024zhongqiu",
+        "desc": "中秋月影",
+        "decoration": 0,
+        "postscript": "2024桂月*中秋月影",
+        "status": 1
     }
 }
