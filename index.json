@@ -371,11 +371,19 @@
         "postscript": "2024龙年新年限定",
         "status": 1
     },
+<<<<<<< HEAD
     "2024zhongqiu": {
         "name": "2024zhongqiu",
         "desc": "中秋月影",
         "decoration": 0,
         "postscript": "2024桂月*中秋月影",
+=======
+    "rank_8": {
+        "name": "rank_8",
+        "desc": "第八届·秘境百强榜",
+        "decoration": 1,
+        "postscript": "第八届·秘境百强榜",
+>>>>>>> 766d389f7b3e4c98206392881c553587f4aa82d9
         "status": 1
     }
 }
