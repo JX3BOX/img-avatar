@@ -384,5 +384,12 @@
 		"decoration": 0,
 		"postscript": "2024桂月*中秋月影",
 		"status": 1
+	},
+	"rank_8": {
+		"name": "rank_9",
+		"desc": "第九届·秘境百强榜",
+		"decoration": 1,
+		"postscript": "第九届·秘境百强榜",
+		"status": 1
 	}
 }
