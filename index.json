@@ -391,5 +391,12 @@
 		"decoration": 1,
 		"postscript": "第九届·秘境百强榜",
 		"status": 1
+	},
+    "jx3box-birthday-5": {
+		"name": "jx3box-birthday-5",
+		"desc": "魔盒五周年",
+		"decoration": 1,
+		"postscript": "魔盒五周年",
+		"status": 1
 	}
 }
