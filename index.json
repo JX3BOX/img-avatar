@@ -398,5 +398,26 @@
 		"decoration": 1,
 		"postscript": "魔盒五周年",
 		"status": 1
+	},
+    "2025jinqian": {
+		"name": "2025jinqian",
+		"desc": "金钱多多",
+		"decoration": 1,
+		"postscript": "金钱多多",
+		"status": 1
+	},
+    "2025jinqian": {
+		"name": "2025jinqian",
+		"desc": "奇遇多多",
+		"decoration": 1,
+		"postscript": "奇遇多多",
+		"status": 1
+	},
+    "2025xuanjing": {
+		"name": "2025xuanjing",
+		"desc": "玄晶闪闪",
+		"decoration": 1,
+		"postscript": "玄晶闪闪",
+		"status": 1
 	}
 }
