@@ -419,5 +419,12 @@
 		"decoration": 1,
 		"postscript": "玄晶闪闪",
 		"status": 1
+	},
+    "rank_10": {
+		"name": "rank_10",
+		"desc": "第十届·秘境百强榜",
+		"decoration": 1,
+		"postscript": "第十届·秘境百强榜",
+		"status": 1
 	}
 }
