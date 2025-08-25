@@ -17,9 +17,9 @@ jobs:
             -H "Authorization: token ${{ secrets.WEBSITE_IMG_REPO_TOKEN }}" \
             https://api.github.com/repos/JX3BOX/website-imgs/dispatches \
             -d '{
-              "event_type": "img_avatar_updated",
+              "event_type": "jx3box_submodule_updated",
               "client_payload": {
-                "submodule_name": "img-avatar",
+                "submodule_name": "${{ github.repository }}",
                 "repository": "${{ github.repository }}",
                 "ref": "${{ github.ref }}",
                 "sha": "${{ github.sha }}"
