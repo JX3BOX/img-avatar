@@ -426,5 +426,12 @@
 		"decoration": 1,
 		"postscript": "第十届·秘境百强榜",
 		"status": 1
+	},
+    "rank_11": {
+		"name": "rank_11",
+		"desc": "第十一届·秘境百强榜",
+		"decoration": 1,
+		"postscript": "第十一届·秘境百强榜",
+		"status": 1
 	}
 }
