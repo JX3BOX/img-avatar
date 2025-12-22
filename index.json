@@ -392,46 +392,53 @@
 		"postscript": "第九届·秘境百强榜",
 		"status": 1
 	},
-    "jx3box-birthday-5": {
+	"jx3box-birthday-5": {
 		"name": "jx3box-birthday-5",
 		"desc": "魔盒五周年",
 		"decoration": 1,
 		"postscript": "魔盒五周年",
 		"status": 1
 	},
-    "2025jinqian": {
+	"2025jinqian": {
 		"name": "2025jinqian",
 		"desc": "金钱多多",
 		"decoration": 1,
 		"postscript": "金钱多多",
 		"status": 1
 	},
-    "2025qiyu": {
+	"2025qiyu": {
 		"name": "2025qiyu",
 		"desc": "奇遇多多",
 		"decoration": 1,
 		"postscript": "奇遇多多",
 		"status": 1
 	},
-    "2025xuanjing": {
+	"2025xuanjing": {
 		"name": "2025xuanjing",
 		"desc": "玄晶闪闪",
 		"decoration": 1,
 		"postscript": "玄晶闪闪",
 		"status": 1
 	},
-    "rank_10": {
+	"rank_10": {
 		"name": "rank_10",
 		"desc": "第十届·秘境百强榜",
 		"decoration": 1,
 		"postscript": "第十届·秘境百强榜",
 		"status": 1
 	},
-    "rank_11": {
+	"rank_11": {
 		"name": "rank_11",
 		"desc": "第十一届·秘境百强榜",
 		"decoration": 1,
 		"postscript": "第十一届·秘境百强榜",
+		"status": 1
+	},
+	"jx3box-birthday-6": {
+		"name": "jx3box-birthday-6",
+		"desc": "魔盒六周年",
+		"decoration": 1,
+		"postscript": "魔盒六周年",
 		"status": 1
 	}
 }
